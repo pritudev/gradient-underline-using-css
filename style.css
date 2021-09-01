@@ -26,8 +26,11 @@ h2 {
   background-position: bottom left;
   background-size: 0% 3px;
   transition: background-size 500ms ease-in-out;
+  cursor: pointer;
+  
 }
 
 h2:hover {
   background-size: 100% 3px;
+  cursor: pointer;
 }
